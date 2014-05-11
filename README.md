@@ -1,4 +1,9 @@
-cs165project2
+cs165projects
 =============
+Project 1 - Selection
+Work with Gary Chen
 
-Primality Test
+Project 2 - Primality Test
+Work with Greg Jeckell
+
+Project 3 - File Compression
